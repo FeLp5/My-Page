@@ -1,0 +1,8 @@
+.main_action{
+    display: inline-flex;
+    flex-wrap: wrap;
+    color: black;
+    padding: 20px 15px;
+    align-items: center;
+    text-decoration: none;
+}
