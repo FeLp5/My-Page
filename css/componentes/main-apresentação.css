@@ -1,0 +1,14 @@
+.apresentação{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.main-data{
+    font-family: 'Waterfall';
+    font-size: 45px;
+    color: rgb(54, 51, 51);
+}
+
