@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
-	font-family: "Tilt Warp", Arial, Helvetica, sans-serif;
+	font-family: 'Raleway','Caveat', Arial, Helvetica, sans-serif;
 	width: 100%;
 	margin: 0;
 	/* overflow: hidden; */
@@ -62,6 +62,6 @@ progress-bar{
 }
 
 body{
-	background-color: #E1EDE0;
+	background-color: #CCE2E4;
 
 }

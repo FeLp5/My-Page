@@ -1,5 +1,5 @@
 .header{
-    background-color: #b7d2b6;
+    background-color: #93C2C4;
 }
 
 .presents{
@@ -7,10 +7,4 @@
     flex-direction: column;
     align-items: center;
     padding-top: 30px;
-}
-
-.presents .heart{
-    width: 15px;
-
-
 }

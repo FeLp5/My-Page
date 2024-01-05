@@ -1,0 +1,12 @@
+.presents{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.main-story{
+    font-family: 'Caveat';
+    font-size: 30px;
+    color: rgb(54, 51, 51); ;
+}

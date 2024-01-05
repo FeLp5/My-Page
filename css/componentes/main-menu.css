@@ -5,12 +5,33 @@
     align-items: center;
 }
 
-.main_action{
-    display: inline-flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    color: black;
-    padding: 20px 15px;
+.wrap-navigation{
+    display: flex;
     align-items: center;
+}
+
+.button{
+    padding: 20px 25px;
+}
+
+
+.-presentes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+} 
+
+.presente_icon{
+    width: 25px;
+    height: 25px;
+    margin: 0;
+    padding: 10px;
+    right: 30px;
+}
+
+.-btn_syle{
+    color: white;
+    font-size: 30px;
     text-decoration: none;
 }
