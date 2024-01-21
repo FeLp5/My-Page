@@ -1,11 +1,7 @@
 
 /* media queries responsividade */
 
-@media(max-width: 500px){
-
-    #menu_botao{
-        display: none;
-    }
+@media(max-width: 1392px){
     .wrap-navigation{
         display: flex;
         flex-direction: column;    
