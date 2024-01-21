@@ -1,7 +1,7 @@
 
 /* media queries responsividade */
 
-@media(max-width: 1392px){
+@media(max-width: 1000px){
     .wrap-navigation{
         display: flex;
         flex-direction: column;    
