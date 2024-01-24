@@ -6,6 +6,12 @@
     margin-bottom: 100px;
 }
 
+.data{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
 .main-data{
     font-family: 'Waterfall';
     font-size: 45px;
