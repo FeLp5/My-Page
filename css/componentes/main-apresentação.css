@@ -1,9 +1,11 @@
 .apresentação{
     display: flex;
+    text-align: center;
     flex-direction: column;
     align-items: center;
     margin-top: 20px;
     margin-bottom: 100px;
+    
 }
 
 .data{
@@ -15,6 +17,7 @@
 .main-data{
     font-family: 'Waterfall';
     font-size: 45px;
+    margin-left: 20px;
     color: rgb(54, 51, 51);
 }
 

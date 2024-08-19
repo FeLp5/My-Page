@@ -1,7 +1,8 @@
 .main-title{
     font-family: 'Waterfall';
-    font-size: 70px;
-    color: rgb(54, 51, 51); 
+    font-size: 80px;
+    text-shadow: 1px 5px 1px #93C2C4;
+    color: #292525; 
 }
 
 
