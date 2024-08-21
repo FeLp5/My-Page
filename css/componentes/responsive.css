@@ -1,13 +1,21 @@
 
 /* media queries responsividade */
+@media(max-width: 80%){
+
+    .apresentação{
+        background-size: 100%;
+
+    }
+
+}
 
 @media(max-width: 999px){
 
 
 
     .wrap-menu{
-        display: none;
-        position:absolute; 
+        display: flex;
+        /* position:absolute;  */
         align-items: right;
         /* width: 200px; */
         height: 100%;
@@ -17,14 +25,13 @@
         
     }
 
+    .apresentação{
+        background-size: 900px;
+
+    }
 
     .wrap-navigation{
-        display: none;
-        flex-direction: column;   
-        position: right;
-        align-items: right; 
-        width: 20px;
-        height: 0%;
+        display: flex;
     }
 
     .exp_icon{

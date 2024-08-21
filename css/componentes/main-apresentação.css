@@ -3,11 +3,12 @@
     text-align: center;
     flex-direction: column;
     align-items: center;
-    margin-top: 20px;
+    /* margin-top: 20px; */
     margin-bottom: 100px;
     width: auto;
     height: auto;
-    
+    background-image: url("../../imgs/background_apresentação.png");
+	background-size: 1500px;
 }
 
 .data{
@@ -17,10 +18,10 @@
     margin-bottom: 50px;
 }
 
-.main-data{
+/* .main-data{
     font-family: 'Waterfall';
     font-size: 45px;
     margin-left: 20px;
     color: rgb(54, 51, 51);
-}
+} */
 
