@@ -1,6 +1,6 @@
 
 /* media queries responsividade */
-@media(max-width: 80%){
+@media(max-width: 600px){
 
     .apresentação{
         background-size: 100%;
@@ -14,8 +14,8 @@
 
 
     .wrap-menu{
-        display: flex;
-        /* position:absolute;  */
+        display: none;
+        position:absolute; 
         align-items: right;
         /* width: 200px; */
         height: 100%;
@@ -26,12 +26,17 @@
     }
 
     .apresentação{
-        background-size: 900px;
+        background-size: 800px;
 
     }
 
     .wrap-navigation{
-        display: flex;
+        display: none;
+        flex-direction: column;   
+        position: right;
+        align-items: right; 
+        width: 20px;
+        height: 0%;
     }
 
     .exp_icon{
