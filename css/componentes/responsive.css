@@ -14,13 +14,12 @@
 
 
     .wrap-menu{
-        display: none;
-        position:absolute; 
-        align-items: right;
+        display: flex;
+        flex-direction: column;
         /* width: 200px; */
         height: 100%;
         top: -15px;
-        margin: 0;
+
         /* margin-left: 77%; */
         
     }
@@ -31,10 +30,8 @@
     }
 
     .wrap-navigation{
-        display: none;
+        display: flex;
         flex-direction: column;   
-        position: right;
-        align-items: right; 
         width: 20px;
         height: 0%;
     }
@@ -47,12 +44,12 @@
     }
 
     .local_icon{
-        display: none;
+        
 
     }
 
     .presentes_icon{
-        display: none;
+        
 
     }
 
